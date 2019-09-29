@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "jsx": "preserve",
+    "esModuleInterop": true,
+    "lib": [
+      "es6",
+      "dom"
+    ],
+    "rootDir": "src",
+    "strict": "true"
+  }
+}
